@@ -3,6 +3,7 @@
 The Jupyter notebook is creates a Deep Learning CNN model using PyTorch which aims at classifying fruits from their images. There are 131 different types of fruits in the dataset. 
 
 The dataset has been obtained from Kaggle and can be accessed  from this link: [https://www.kaggle.com/moltean/fruits](https://www.kaggle.com/moltean/fruits)
+
 Reasonable explanations via the usage of markdown and python comments has been provided in the notebook.
 
 
